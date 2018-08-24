@@ -6,6 +6,3 @@ https://grammiegram.com/
 About
 https://grammiegram.com/about/
 
-Development Blog
-http://philipkiely.com/cvplusplus/
-
